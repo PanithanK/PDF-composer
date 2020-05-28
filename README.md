@@ -1,7 +1,7 @@
 
 # PDF composer
-PDF composer is a group of service that allow you to generate signed PDF document from JSON data and HTML template. It's consists of 3 seperate service
-* [PDF generator](https://www.google.com/) 
+PDF composer is one of ecosystem that allow you to generate signed PDF document from JSON data and HTML template. It's consists of 3 seperate service
+* [PDF composer](https://www.google.com/) 
 * [XML generator](https://www.google.com/)
 * [PDF generator](https://www.google.com/)
 ## How it work?
