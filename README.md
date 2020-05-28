@@ -13,15 +13,15 @@ PDF composer provide an API `yourdomain/compose`. It's going to grab all your da
 To deploy an API you need to define your environment configuration in `config.yml`
 ```yml
 env:
-	port: "8000" # define your port to deploy here
+port: "8000" # define your port to deploy here
 
 service:
-	xml-generator: "http://127.0.0.1:8080/genXML" # define your XML generetor API path here 
-	pdf-generator: "http://127.0.0.1:9000/genPDF" # define your PDF generetor API path here 
+xml-generator: "http://127.0.0.1:8080/genXML" # define your XML generetor API path here 
+pdf-generator: "http://127.0.0.1:9000/genPDF" # define your PDF generetor API path here 
 
 syslog:
-	server: "127.0.0.1" # define your syslog domain
-	port: "8000" # define your syslog port
+server: "127.0.0.1" # define your syslog domain
+port: "8000" # define your syslog port
 ```
 
 
