@@ -27,4 +27,4 @@ port: "8000" # define your syslog port
 
 ## Contributors
 * Realtime & Secure Technology Co., Ltd.
-* bTECH
+* beTECH
